@@ -1,0 +1,19 @@
+.datagrid-mask {
+    background: #ccc;
+	position: absolute;
+    left: 0;
+    top: 0;
+}
+ 
+.datagrid-mask-msg {
+	border-color: #D3D3D3;
+    position: absolute;
+    /* margin-top: -10px; */
+	/* top:2rem; */
+    padding: 0.625rem 0.3125rem 0.625rem 1.875rem;
+    width: auto;
+    height: 1rem;
+    border-width: 0.125rem;
+    border-style: solid;
+	background: #ffffff url(../img/loading.gif) no-repeat scroll 0.3125rem center;
+}
